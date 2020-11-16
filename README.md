@@ -6,26 +6,26 @@ This image shows that we do have to have an authorization key to be able to view
 ![](assets/logChart.png)
 This shows the chart on pgAdmin of log.js, after the delete done below.
 
-![](logGet.png)
+![](assets/logGet.png)
 This shows all the logs created by an individual user (user 2).
 
-![](logIdDelete.png)
+![](assets/logIdDelete.png)
 This shows we've deleted a log.
 
-![](logIdGet.png)
+![](assets/logIdGet.png)
 This shows log 2 by this specific user.
 
-![](logIdPut.png)
+![](assets/logIdPut.png)
 This shows we've updated a log by this specific user.
 
-![](logPost.png)
+![](assets/logPost.png)
 This shows this user created a log.
 
-![](userChart.png)
+![](assets/userChart.png)
 This is the chart for user.js and shows the username and the hashed password.
 
-![](userLogin.png)
+![](assets/userLogin.png)
 This shows that this specific user was able to log in.
 
-![](userRegister.png)
+![](assets/userRegister.png)
 This shows that we've registered/created a new user. 
